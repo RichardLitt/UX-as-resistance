@@ -2,9 +2,6 @@
 layout: default
 ---
 
-# [](#header-2)UX As Reistance: An Organizing Space
-
-
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
